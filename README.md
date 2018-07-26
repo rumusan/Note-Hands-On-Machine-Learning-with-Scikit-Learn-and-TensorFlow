@@ -2,6 +2,8 @@
 
 挖坑，但愿可以坚持填。！
 
+- [nbviewer](https://nbviewer.jupyter.org/github/rumusan/Note-Hands-On-Machine-Learning-with-Scikit-Learn-and-TensorFlow/blob/master/index.ipynb)
+
 ## 目录
 - [chapter1](https://nbviewer.jupyter.org/github/rumusan/Note-Hands-On-Machine-Learning-with-Scikit-Learn-and-TensorFlow/blob/master/chapter1.ipynb)
 - [chpter 2](https://nbviewer.jupyter.org/github/rumusan/Note-Hands-On-Machine-Learning-with-Scikit-Learn-and-TensorFlow/blob/master/chapter2.ipynb)
