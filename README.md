@@ -11,3 +11,6 @@
 - [chpter 6](https://nbviewer.jupyter.org/github/rumusan/Note-Hands-On-Machine-Learning-with-Scikit-Learn-and-TensorFlow/blob/master/chapter6.ipynb)
 - [chpter 7](https://nbviewer.jupyter.org/github/rumusan/Note-Hands-On-Machine-Learning-with-Scikit-Learn-and-TensorFlow/blob/master/chapter7.ipynb)
 - [chpter 8](https://nbviewer.jupyter.org/github/rumusan/Note-Hands-On-Machine-Learning-with-Scikit-Learn-and-TensorFlow/blob/master/chapter8.ipynb)
+- [chpter 9](https://nbviewer.jupyter.org/github/rumusan/Note-Hands-On-Machine-Learning-with-Scikit-Learn-and-TensorFlow/blob/master/chapter9.ipynb)
+- [chpter 10](https://nbviewer.jupyter.org/github/rumusan/Note-Hands-On-Machine-Learning-with-Scikit-Learn-and-TensorFlow/blob/master/chapter10.ipynb)
+- [chpter 11](https://nbviewer.jupyter.org/github/rumusan/Note-Hands-On-Machine-Learning-with-Scikit-Learn-and-TensorFlow/blob/master/chapter11.ipynb)
