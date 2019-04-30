@@ -1,6 +1,6 @@
 # Note-Hands On Machine Learning with Scikit-Learn and TensorFlow
 
-挖坑，但愿可以坚持填。！
+《Hands On Machine Learning with Scikit-Learn and TensorFlow》 学习笔记
 
 - [nbviewer](https://nbviewer.jupyter.org/github/rumusan/Note-Hands-On-Machine-Learning-with-Scikit-Learn-and-TensorFlow/blob/master/index.ipynb)
 
